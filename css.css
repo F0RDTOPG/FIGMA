@@ -1,0 +1,237 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.Head{
+    display: flex;
+    width: 1400px;
+    height: 78px;
+
+}
+.Logo{
+    display: flex;
+    margin-left: 11px;
+    margin-top: 25px;
+    margin-bottom: 24px;
+}
+.Head img{
+    margin-left: 143.2px;
+    width: 31.168px;
+    height: 32px;
+    margin-top: 22px;
+    margin-bottom: 24px;
+}
+.product h3{
+    color: #000000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-right: 20px;
+    margin-top: 24px;
+    margin-bottom: 26px;
+}
+.product {
+    align-items: center;
+    display: flex;
+    margin-left: 320px;
+}
+button{
+    width: 102px;
+    height: 46px;
+
+}
+.but1{
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+    border: 1px solid #BCD0E5;
+    color: #173A56;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.but2{
+    margin-left: 14px;
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 4px;
+    background: #F90;
+    width: 110px;
+    height: 46px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.intra{
+    display: flex;
+    margin-left: 29px;
+    margin-right: 145px;
+    margin-top: 15px;
+    margin-bottom: 17px ;
+}
+.header{
+    display: flex;
+    margin-top: 24px;
+    margin-left: 145px;
+    width: 1123px;
+    height: 494.83px;
+    
+    
+}
+.column{
+    flex-direction: column;
+}
+.Titlu{
+    width: 518px;
+    height: 108px;
+}
+.paragraf{
+    width: 458px;
+    height: 95px;
+}
+.but3{
+    margin-top: 45px;
+    border: #FFF;
+    border-radius: 4px;
+    background: #F90;
+    width: 175px;
+    height: 53px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.wach{
+    flex-direction: row;
+    display: flex;
+    
+}
+.tri{
+    margin-left: 30px;
+}
+.mata{
+    width: 20px;
+    height: 17px;
+    margin-left: 30px;
+    margin-top: 65.5px;
+}
+.para{
+    margin-top: 60.5px;
+    text-decoration: underline;
+}
+.Titlucentru{
+    width: 400px;
+    color: #2F281E;
+    height: 108px;
+}
+.Feature{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    
+}
+.card{
+    display: flex;
+    width: 1095px;
+    height: 204px;
+    margin-left: 145px;
+    margin-top: 50px;
+}
+.card img{
+    width: 240px;
+    height: 178px;
+}
+
+.cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.but5{
+    margin-top: 50px;
+}
+.linie{
+    margin-top: 500px;
+    width: 100%;
+    height: 1px;
+    flex-shrink: 0;
+    background: rgba(188, 208, 229, 0.50);
+}
+.footer{
+    width: 1109px;
+    height: 308px;
+    flex-shrink: 0;
+    margin-left: 145px;
+    display: flex;
+
+}
+.iara{
+    margin-top: 102px;
+}
+.log{
+    margin-left: 16px;
+    margin-top: 105px;
+}
+.links{
+    margin-top: 105px;
+    margin-left: 324px;
+    flex-direction: column;
+}
+.linksd{
+    margin-top: 105px;
+    margin-left: 192px;
+    flex-direction: column;
+}
+.numar{
+
+    border-radius: 4px;
+    border: 1px solid #BCD0E5;
+    background: #FFF;
+    width: 325px;
+    height: 48px;
+}
+.inp{
+    margin-top: 7px;
+    color: #BCD0E5;
+    font-family: ProximaNova;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: 28px; /* 175% */
+    border: solid white;
+}
+.box3{
+    flex-direction: column;
+    margin-top: 193px;
+    margin-left: 81px;
+}
+.but8{
+    width: 131px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    border: solid rgb(146, 145, 145);
+    color: #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.but7{
+    margin-top: 30px;
+    margin-right: 200px;
+    
+}
